@@ -69,7 +69,12 @@ _Coming soon._
 
 Model Context Protocol tools, servers, SDKs, and ecosystem resources.
 
-_Coming soon._
+- [Context7](https://context7.com/) - Up-to-date Docs for LLMs and AI code editors.
+- [DeepWiki MCP](https://docs.devin.ai/work-with-devin/deepwiki-mcp) - Programmatic access to DeepWiki public docs and search capabilities.
+- [n8n MCP](https://github.com/czlonkowski/n8n-mcp) - MCP to build n8n workflows for you.
+- [Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) - MCP server implementation for sequential thinking.
+
+More: [MCP Servers](https://mcpservers.org/) - A collection of MCP servers.
 
 ## Models & Providers
 
