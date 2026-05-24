@@ -27,6 +27,7 @@
 - [Continue](https://www.continue.dev/)
 - [GitHub Copilot](https://copilot.github.com/)
 - [KiloCode](https://github.com/kilo-org/kilocode)
+- [OpenCode](https://opencode.ai/)
 - [Qodo](https://www.qodo.ai/)
 - [Roomote](https://roomote.dev/) - Bug reports, support escalations, QA regressions, repo questions and more.
 - [Tabnine](https://www.tabnine.com/)
