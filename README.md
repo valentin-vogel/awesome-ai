@@ -54,6 +54,11 @@ Libraries, frameworks, and SDKs for building AI applications, agents, and develo
 
 _Coming soon._
 
+## Local runtimes
+
+- [Local AI](https://localai.dev/) - Run large language models locally with support for multiple backends.
+- [Ollama](https://ollama.com/) - Run and manage local AI models with a CLI and API.
+
 ## Machine Learning
 
 Machine learning frameworks, training tools, experimentation platforms, and infrastructure.
