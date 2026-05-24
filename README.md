@@ -89,6 +89,7 @@ Foundation model providers, inference platforms, and model catalogs.
 - [Models](https://models.dev/) — Unified model discovery platform for exploring LLMs, providers, APIs, and capabilities.
 - [OpenAI](https://openai.com) — GPT models, reasoning systems, multimodal AI, agents, API platform.
 - [xAI](https://x.ai) — Grok models, large-scale reasoning and agentic systems.
+- [Hugging Face](https://huggingface.co/) — Platform where the ML community collaborates on models, datasets, and applications.
 
 ## Skills
 
