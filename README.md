@@ -54,4 +54,9 @@
 
 ## Models & Provider
 
+- [Anthropic](https://www.anthropic.com/)
+- [Google](https://ai.google.dev/)
+- [Models](https://models.dev/)
+- [OpenAI](https://www.openai.com/)
+
 ## Skills
