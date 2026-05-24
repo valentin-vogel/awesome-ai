@@ -22,11 +22,11 @@ AI-powered coding assistants, autonomous agents, and developer copilots for code
 - [OpenCode](https://opencode.ai/) - OSS coding agent designed for terminal-native and developer-centric coding workflows.
 - [Q Developer](https://aws.amazon.com/de/q/developer/) - AWS coding assistant for code generation, debugging, cloud architecture, and AWS integrations.
 - [Qodo](https://www.qodo.ai/) - Code quality assistant focused on code reviews, test generation, and maintaining engineering standards.
-- [Replit](https://replit.com/) - Cloud-based AI development environment with coding assistance, deployment, and collaborative app building.
-- [Roomote](https://roomote.dev/) - AI engineering assistant for bug reports, QA regressions, support escalations, repository analysis, and operational debugging.
-- [Sourcegraph](https://sourcegraph.com/) - AI-powered code intelligence platform with deep repository search, navigation, and assistant workflows.
+- [Replit](https://replit.com/) - AI CDE with coding assistance, deployment, and collaborative app building.
+- [Roomote](https://roomote.dev/) - Bug reports, QA regressions, support escalations, repository analysis, and operational debugging.
+- [Sourcegraph](https://sourcegraph.com/) - Code intelligence platform with deep repository search, navigation, and assistant workflows.
 - [Tabnine](https://www.tabnine.com/) - Privacy-focused AI coding assistant with code completion and enterprise deployment options.
-- [ZooCode](https://github.com/Zoo-Code-Org/Zoo-Code/) - Open-source AI coding assistant for extensible autonomous development workflows.
+- [ZooCode](https://github.com/Zoo-Code-Org/Zoo-Code/) - OSS coding assistant for extensible autonomous development workflows.
 
 ## Coding IDEs
 
