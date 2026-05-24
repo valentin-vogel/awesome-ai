@@ -70,10 +70,15 @@ _Coming soon._
 
 Foundation model providers, inference platforms, and model catalogs.
 
-- [Anthropic](https://www.anthropic.com/) - Developer platform for Claude models focused on reasoning, coding, and agent workflows.
-- [Google AI](https://ai.google.dev/) - Developer platform for Gemini models, APIs, embeddings, and multimodal AI tooling.
-- [Models](https://models.dev/) - Unified model discovery platform for exploring LLMs, providers, APIs, and capabilities.
-- [OpenAI](https://www.openai.com/) - AI platform offering GPT models, multimodal APIs, reasoning models, and developer tooling.
+- [Anthropic](https://www.anthropic.com) — Claude models, constitutional AI, enterprise AI systems.
+- [Cohere](https://cohere.com) — enterprise LLMs, retrieval, embeddings.
+- [Google AI](https://ai.google.dev/) — Developer platform for Gemini models, APIs, embeddings, and multimodal AI tooling.
+- [Google DeepMind](https://deepmind.google) — Gemini models, frontier research, multimodal systems.
+- [Meta AI](https://ai.meta.com) — Llama models, open-weight foundation models, AI research.
+- [Mistral AI](https://mistral.ai) — European frontier foundation models.
+- [Models](https://models.dev/) — Unified model discovery platform for exploring LLMs, providers, APIs, and capabilities.
+- [OpenAI](https://openai.com) — GPT models, reasoning systems, multimodal AI, agents, API platform.
+- [xAI](https://x.ai) — Grok models, large-scale reasoning and agentic systems.
 
 ## Skills
 
