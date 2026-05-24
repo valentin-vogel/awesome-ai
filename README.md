@@ -13,6 +13,7 @@
 - [Coding Libs / Frameworks / SDKs](#coding-libs--frameworks--sdks)
 - [Machine Learning](#machine-learning)
 - [MCP](#mcp)
+- [Models & Provider](#models--provider)
 - [Skills](#skills)
 
 ## Learning Resources
@@ -50,5 +51,7 @@
 ## Machine Learning
 
 ## MCP
+
+## Models & Provider
 
 ## Skills
