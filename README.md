@@ -32,6 +32,7 @@
 - [Roomote](https://roomote.dev/) - Bug reports, support escalations, QA regressions, repo questions and more.
 - [Tabnine](https://www.tabnine.com/)
 - [ZooCode](https://github.com/Zoo-Code-Org/Zoo-Code/)
+- [Q Developer](https://aws.amazon.com/de/q/developer/)
 
 ## Coding IDEs
 
