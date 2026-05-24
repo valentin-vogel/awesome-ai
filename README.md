@@ -23,6 +23,7 @@
 
 ## Coding Assistants
 
+- [Cline](https://cline.bot/)
 - [GitHub Copilot](https://copilot.github.com/)
 - [Tabnine](https://www.tabnine.com/)
 - [Qodo](https://www.qodo.ai/)
