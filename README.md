@@ -16,12 +16,12 @@ _Coming soon._
 AI-powered coding assistants, autonomous agents, and developer copilots for code generation, debugging, refactoring, and repository understanding.
 
 - [Cline](https://cline.bot/) - OSS coding agent for VS Code with terminal execution, file editing, and repo-aware workflows.
-- [Continue](https://www.continue.dev/) - OSS coding assistant for VS Code and JetBrains with support for custom models, autocomplete, and chat.
+- [Continue](https://www.continue.dev/) - OSS coding assistant for VS Code and JetBrains for custom models, autocomplete, and chat.
 - [GitHub Copilot](https://copilot.github.com/) - AI pair programmer by GitHub with code completion, chat, refactoring, and IDE integration.
 - [KiloCode](https://github.com/kilo-org/kilocode) - OSS coding assistant focused on developer productivity and extensible agent workflows.
-- [OpenCode](https://opencode.ai/) - AI coding agent designed for terminal-native and developer-centric coding workflows.
-- [Q Developer](https://aws.amazon.com/de/q/developer/) - AWS-powered AI coding assistant for code generation, debugging, cloud architecture, and AWS integrations.
-- [Qodo](https://www.qodo.ai/) - AI code quality assistant focused on code reviews, test generation, and maintaining engineering standards.
+- [OpenCode](https://opencode.ai/) - OSS coding agent designed for terminal-native and developer-centric coding workflows.
+- [Q Developer](https://aws.amazon.com/de/q/developer/) - AWS coding assistant for code generation, debugging, cloud architecture, and AWS integrations.
+- [Qodo](https://www.qodo.ai/) - Code quality assistant focused on code reviews, test generation, and maintaining engineering standards.
 - [Replit](https://replit.com/) - Cloud-based AI development environment with coding assistance, deployment, and collaborative app building.
 - [Roomote](https://roomote.dev/) - AI engineering assistant for bug reports, QA regressions, support escalations, repository analysis, and operational debugging.
 - [Sourcegraph](https://sourcegraph.com/) - AI-powered code intelligence platform with deep repository search, navigation, and assistant workflows.
