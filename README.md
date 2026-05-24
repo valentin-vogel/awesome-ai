@@ -19,6 +19,7 @@ AI-powered browser extensions for web assistance, summarization, and productivit
 
 AI-powered coding assistants, autonomous agents, and developer copilots for code generation, debugging, refactoring, and repository understanding.
 
+- [Claude Code](https://claude.com/de/product/claude-code) - AI coding assistant by Anthropic for code generation, debugging, and refactoring.
 - [Cline](https://cline.bot/) - OSS coding agent for VS Code with terminal execution, file editing, and repo-aware workflows.
 - [Continue](https://www.continue.dev/) - OSS coding assistant for VS Code and JetBrains for custom models, autocomplete, and chat.
 - [GitHub Copilot](https://copilot.github.com/) - AI pair programmer by GitHub with code completion, chat, refactoring, and IDE integration.
