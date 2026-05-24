@@ -56,7 +56,7 @@ _Coming soon._
 
 ## Local runtimes
 
-- [Local AI](https://localai.dev/) - Run large language models locally with support for multiple backends.
+- [Local AI](https://localai.io/) - Run large language models locally with support for multiple backends.
 - [Ollama](https://ollama.com/) - Run and manage local AI models with a CLI and API.
 
 ## Machine Learning
