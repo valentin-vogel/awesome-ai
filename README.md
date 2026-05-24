@@ -39,6 +39,7 @@
 
 - [Antigravity](https://antigravity.google/)
 - [Cursor](https://www.cursor.com/)
+- [Trae](https://www.trae.ai/)
 - [Windsurf](https://windsurf.com/)
 
 ## Coding Reviews
