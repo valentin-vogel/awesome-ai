@@ -15,10 +15,10 @@ _Coming soon._
 
 AI-powered coding assistants, autonomous agents, and developer copilots for code generation, debugging, refactoring, and repository understanding.
 
-- [Cline](https://cline.bot/) - Open-source autonomous coding agent for VS Code with terminal execution, file editing, and repo-aware workflows.
-- [Continue](https://www.continue.dev/) - Open-source AI coding assistant for VS Code and JetBrains with support for custom models, autocomplete, and chat.
+- [Cline](https://cline.bot/) - OSS coding agent for VS Code with terminal execution, file editing, and repo-aware workflows.
+- [Continue](https://www.continue.dev/) - OSS coding assistant for VS Code and JetBrains with support for custom models, autocomplete, and chat.
 - [GitHub Copilot](https://copilot.github.com/) - AI pair programmer by GitHub with code completion, chat, refactoring, and IDE integration.
-- [KiloCode](https://github.com/kilo-org/kilocode) - Open-source AI coding assistant focused on developer productivity and extensible agent workflows.
+- [KiloCode](https://github.com/kilo-org/kilocode) - OSS coding assistant focused on developer productivity and extensible agent workflows.
 - [OpenCode](https://opencode.ai/) - AI coding agent designed for terminal-native and developer-centric coding workflows.
 - [Q Developer](https://aws.amazon.com/de/q/developer/) - AWS-powered AI coding assistant for code generation, debugging, cloud architecture, and AWS integrations.
 - [Qodo](https://www.qodo.ai/) - AI code quality assistant focused on code reviews, test generation, and maintaining engineering standards.
