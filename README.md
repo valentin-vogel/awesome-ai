@@ -24,6 +24,7 @@
 ## Coding Assistants
 
 - [Cline](https://cline.bot/)
+- [Continue](https://www.continue.dev/)
 - [GitHub Copilot](https://copilot.github.com/)
 - [KiloCode](https://github.com/kilo-org/kilocode)
 - [Qodo](https://www.qodo.ai/)
