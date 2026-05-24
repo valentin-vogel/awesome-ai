@@ -32,6 +32,7 @@
 - [Qodo](https://www.qodo.ai/)
 - [Replit](https://replit.com/)
 - [Roomote](https://roomote.dev/) - Bug reports, support escalations, QA regressions, repo questions and more.
+- [Sourcegraph](https://sourcegraph.com/)
 - [Tabnine](https://www.tabnine.com/)
 - [ZooCode](https://github.com/Zoo-Code-Org/Zoo-Code/)
 
