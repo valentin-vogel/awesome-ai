@@ -25,12 +25,15 @@
 
 - [GitHub Copilot](https://copilot.github.com/)
 - [Tabnine](https://www.tabnine.com/)
+- [Qodo](https://www.qodo.ai/)
 
 ## Coding IDEs
 
 - [Antigravity](https://antigravity.google/)
 - [Cursor](https://www.cursor.com/)
 - [Windsurf](https://windsurf.com/)
+
+## Coding Reviews
 
 ## Coding Libs / Frameworks / SDKs
 
