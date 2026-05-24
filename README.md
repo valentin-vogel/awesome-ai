@@ -28,11 +28,12 @@
 - [GitHub Copilot](https://copilot.github.com/)
 - [KiloCode](https://github.com/kilo-org/kilocode)
 - [OpenCode](https://opencode.ai/)
+- [Q Developer](https://aws.amazon.com/de/q/developer/)
 - [Qodo](https://www.qodo.ai/)
+- [Replit](https://replit.com/)
 - [Roomote](https://roomote.dev/) - Bug reports, support escalations, QA regressions, repo questions and more.
 - [Tabnine](https://www.tabnine.com/)
 - [ZooCode](https://github.com/Zoo-Code-Org/Zoo-Code/)
-- [Q Developer](https://aws.amazon.com/de/q/developer/)
 
 ## Coding IDEs
 
