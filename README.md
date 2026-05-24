@@ -66,7 +66,7 @@ Model Context Protocol tools, servers, SDKs, and ecosystem resources.
 
 _Coming soon._
 
-## Models & Provider
+## Models & Providers
 
 Foundation model providers, inference platforms, and model catalogs.
 
