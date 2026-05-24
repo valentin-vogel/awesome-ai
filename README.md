@@ -23,6 +23,8 @@
 
 ## Coding Assistants
 
+- [GitHub Copilot](https://copilot.github.com/)
+
 ## Coding IDEs
 
 ## Coding Libs / Frameworks / SDKs
