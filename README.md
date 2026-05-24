@@ -94,4 +94,4 @@ Foundation model providers, inference platforms, and model catalogs.
 
 Reusable AI skills, prompts, and reusable blocks.
 
-_Coming soon._
+- [Skills](https://www.skills.sh/) - A platform for discovering and sharing reusable AI skills.
