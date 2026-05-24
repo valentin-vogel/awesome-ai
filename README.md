@@ -3,7 +3,7 @@
 > A curated list of AI resources.
 > Your [contributions](https://github.com/valentin-vogel/awesome-ai/blob/main/CONTRIBUTING.md) are welcome!
 
-## Table of Contents
+## Contents
 
 - [Learning Resources](#learning-resources)
 - [Browser Extensions](#browser-extensions)
