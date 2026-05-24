@@ -9,6 +9,7 @@
 - [AI-Platforms](#ai-platforms)
 - [Browser Extensions](#browser-extensions)
 - [Coding Assistants](#coding-assistants)
+- [Coding IDEs](#coding-ides)
 - [Coding Libs / Frameworks / SDKs](#coding-libs--frameworks--sdks)
 - [Machine Learning](#machine-learning)
 - [MCP](#mcp)
@@ -21,6 +22,8 @@
 ## Browser Extensions
 
 ## Coding Assistants
+
+## Coding IDEs
 
 ## Coding Libs / Frameworks / SDKs
 
