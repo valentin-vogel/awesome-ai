@@ -78,7 +78,7 @@ _Coming soon._
 Foundation model providers, inference platforms, and model catalogs.
 
 - [Anthropic](https://www.anthropic.com/) - Developer platform for Claude models focused on reasoning, coding, and agent workflows.
-- [Google](https://ai.google.dev/) - Google AI developer platform for Gemini models, APIs, embeddings, and multimodal AI tooling.
+- [Google AI](https://ai.google.dev/) - Developer platform for Gemini models, APIs, embeddings, and multimodal AI tooling.
 - [Models](https://models.dev/) - Unified model discovery platform for exploring LLMs, providers, APIs, and capabilities.
 - [OpenAI](https://www.openai.com/) - AI platform offering GPT models, multimodal APIs, reasoning models, and developer tooling.
 
