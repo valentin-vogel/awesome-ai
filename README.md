@@ -24,6 +24,7 @@
 ## Coding Assistants
 
 - [GitHub Copilot](https://copilot.github.com/)
+- [Tabnine](https://www.tabnine.com/)
 
 ## Coding IDEs
 
