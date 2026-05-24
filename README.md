@@ -30,6 +30,7 @@
 
 - [Antigravity](https://antigravity.google/)
 - [Cursor](https://www.cursor.com/)
+- [Windsurf](https://windsurf.com/)
 
 ## Coding Libs / Frameworks / SDKs
 
