@@ -3,19 +3,6 @@
 > A curated list of AI resources.
 > Your [contributions](https://github.com/valentin-vogel/awesome-ai/blob/main/CONTRIBUTING.md) are welcome!
 
-## Contents
-
-- [Learning Resources](#learning-resources)
-- [Browser Extensions](#browser-extensions)
-- [Coding Assistants](#coding-assistants)
-- [Coding IDEs](#coding-ides)
-- [Coding Reviews](#coding-reviews)
-- [Coding Libs / Frameworks / SDKs](#coding-libs--frameworks--sdks)
-- [Machine Learning](#machine-learning)
-- [MCP](#mcp)
-- [Models & Provider](#models--provider)
-- [Skills](#skills)
-
 ## Learning Resources
 
 _Coming soon._
