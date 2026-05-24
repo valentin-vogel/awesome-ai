@@ -28,6 +28,8 @@
 
 ## Coding IDEs
 
+- [Antigravity](https://antigravity.google/)
+
 ## Coding Libs / Frameworks / SDKs
 
 ## Machine Learning
