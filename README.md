@@ -29,6 +29,7 @@
 ## Coding IDEs
 
 - [Antigravity](https://antigravity.google/)
+- [Cursor](https://www.cursor.com/)
 
 ## Coding Libs / Frameworks / SDKs
 
