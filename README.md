@@ -32,10 +32,10 @@ AI-powered coding assistants, autonomous agents, and developer copilots for code
 
 AI-native development environments built around intelligent agents, code understanding, and autonomous workflows.
 
-- [Antigravity](https://antigravity.google/) - Experimental AI-powered software engineering environment by Google focused on agentic development workflows.
-- [Cursor](https://www.cursor.com/) - AI-first code editor built on VS Code with multi-file editing, repo awareness, and agentic coding capabilities.
-- [Trae](https://www.trae.ai/) - AI-native coding IDE with autonomous agents, intelligent editing, and integrated software development workflows.
-- [Windsurf](https://windsurf.com/) - AI IDE focused on autonomous software engineering with deep project context and agent-driven execution.
+- [Antigravity](https://antigravity.google/) - Experimental AI-powered software engineering focused on agentic development workflows.
+- [Cursor](https://www.cursor.com/) - AI-IDE on VS Code with multi-file editing, repo awareness, and agentic coding capabilities.
+- [Trae](https://www.trae.ai/) - AI-IDE with autonomous agents, intelligent editing, and integrated software development workflows.
+- [Windsurf](https://windsurf.com/) - AI-IDE focused on autonomous software engineering with deep project context and agent-driven execution.
 
 ## Coding Reviews
 
