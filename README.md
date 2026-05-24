@@ -9,6 +9,7 @@
 - [Browser Extensions](#browser-extensions)
 - [Coding Assistants](#coding-assistants)
 - [Coding IDEs](#coding-ides)
+- [Coding Reviews](#coding-reviews)
 - [Coding Libs / Frameworks / SDKs](#coding-libs--frameworks--sdks)
 - [Machine Learning](#machine-learning)
 - [MCP](#mcp)
