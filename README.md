@@ -6,29 +6,26 @@
 ## Table of Contents
 
 - [Learning Resources](#learning-resources)
-- [Tool Resources](#tool-resources)
-  - [AI-Platforms](#ai-platforms)
-  - [Browser Extensions](#browser-extensions)
-  - [Coding Assistants](#coding-assistants)
-  - [Coding Libs / Frameworks / SDKs](#coding-libs--frameworks--sdks)
-  - [Machine Learning](#machine-learning)
-  - [MCP](#mcp)
-  - [Skills](#skills)
+- [AI-Platforms](#ai-platforms)
+- [Browser Extensions](#browser-extensions)
+- [Coding Assistants](#coding-assistants)
+- [Coding Libs / Frameworks / SDKs](#coding-libs--frameworks--sdks)
+- [Machine Learning](#machine-learning)
+- [MCP](#mcp)
+- [Skills](#skills)
 
 ## Learning Resources
 
-## Tool Resources
+## AI-Platforms
 
-### AI-Platforms
+## Browser Extensions
 
-### Browser Extensions
+## Coding Assistants
 
-### Coding Assistants
+## Coding Libs / Frameworks / SDKs
 
-### Coding Libs / Frameworks / SDKs
+## Machine Learning
 
-### Machine Learning
+## MCP
 
-### MCP
-
-### Skills
+## Skills
