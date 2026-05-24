@@ -9,6 +9,8 @@ _Coming soon._
 
 ## Browser Extensions
 
+AI-powered browser extensions for web assistance, summarization, and productivity.
+
 - [Monica](https://monica.im/) - AI personal assistant for multiple platforms.
 - [PageAssist](https://github.com/n4ze3m/page-assist/) - OSS browser extension for local AI web page assistance and summarization.
 - [Sider](https://sider.ai/) - All-in-one AI sidekick for your browser.
