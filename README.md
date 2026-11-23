@@ -11,6 +11,7 @@ _Coming soon._
 
 AI-powered browser extensions for web assistance, summarization, and productivity.
 
+- [ChatSequel](https://chromewebstore.google.com/detail/cdkihfdcmchokmfbpeglffiiknmmjdcj) - Chrome extension for timed ChatGPT continuations, per-tab controls, and context handoff.
 - [Monica](https://monica.im/) - AI personal assistant for multiple platforms.
 - [PageAssist](https://github.com/n4ze3m/page-assist/) - OSS browser extension for local AI web page assistance and summarization.
 - [Sider](https://sider.ai/) - All-in-one AI sidekick for your browser.
